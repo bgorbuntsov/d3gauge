@@ -1,4 +1,5 @@
 # d3gauge
+# Thanks to Oliver
 
 **d3gauge.js** is an add-in for the [D3](http://d3js.org) javascript library for drawing gauges, based on the [google charts gauge](https://developers.google.com/chart/interactive/docs/gallery/gauge) and [this javascript implementation](http://tomerdoron.blogspot.nl/2011/12/google-style-gauges-using-d3js.html). Every aspect of a d3gauge (sizes, colours, fonts) can be customised by passing an object containing options (see below).  
 
